@@ -1,2 +1,2 @@
 # Projects & Research
-![overview](https://user-images.githubusercontent.com/99800838/160230476-3097c233-9b1e-48e0-9f7c-452952713feb.PNG)
+![overview](https://user-images.githubusercontent.com/99800838/160231774-b089313c-5eef-437d-a6bb-07ce5b85255d.PNG)

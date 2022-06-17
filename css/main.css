@@ -281,8 +281,11 @@ button {
   }
   #professional-info{
     font-size: 1.2rem;
+  }
+  #professional-info ul li {
     list-style: none;
   }
+	  
   /*social links*/
 a, a:hover {
 	text-decoration: none;

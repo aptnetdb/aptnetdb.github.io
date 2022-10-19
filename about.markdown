@@ -11,10 +11,14 @@ Currently: Security Researcher<br>
 Previously: Data Recovery Engineer<br>
 Previously: IT Support Engineer<br>
 <hr>
-OPERATIONS:
-Malware Analysis |
-Application Security |
-Firmware Security |
-SDR & ICS Security |
-Automotive Security |
+RESEARCH INTERESTS:<br>
+Malware Analysis: Android, Windows, Linux |<br>
+Application Security: Web Applications |<br>
+Firmware Security: IoTs, Embedded systems |<br>
+Automotive Security: Car hacking |<br>
+RF Security: SDR hacking |<br>
+ICS Security: SCADA & DCS |<br>
 <hr>
+HOBBIES:<br>
+Tinkering: Hardware teardowns or repairs of mostly mobile & laptops.<br>
+

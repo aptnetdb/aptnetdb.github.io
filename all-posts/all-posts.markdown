@@ -4,7 +4,6 @@ title: Labs
 permalink: /all-posts/
 ---
 
-
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
@@ -23,6 +22,3 @@ permalink: /all-posts/
 {% endfor %}
 </div>
 
-
-
-[jekyll-organization]: https://github.com/jekyll

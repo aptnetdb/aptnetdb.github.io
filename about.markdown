@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm currently focused on reverse engineering and more concerned about major impacts to security of critical infrastructure sectors that affect how humanity thrives.<br>
+Detail-oriented Security Researcher focused on reverse engineering and more concerned about major impacts to security of critical infrastructure sectors that affect how humanity thrives.<br>
 <hr>
 WORK<br>
 Currently: Security Researcher<br>
@@ -20,9 +20,8 @@ Automotive Security |
 <hr>
 HOBBIES:
 Tinkering |
+Learning Languages |
 CTF Player |
-Chess Player |
-Cave Expedition |
 <hr>
 RESOURCES:
 Tools |

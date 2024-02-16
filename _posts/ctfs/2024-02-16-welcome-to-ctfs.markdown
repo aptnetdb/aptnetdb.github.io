@@ -4,7 +4,7 @@ title:  "Welcome to ctfs"
 date:   2024-02-16 13:22:58 -0700
 categories: ctfs
 author: "Bevon o. - Security Researcher"
-permalink: "/ctfs/"
+permalink: /ctfs/
 ---
 # General Notice
 - Mostly Capture The Flag challenges

@@ -4,7 +4,7 @@ title:  "Welcome to reports"
 date:   2024-02-16 13:22:58 -0700
 categories: reports
 author: "Bevon o. - Security Researcher"
-permalink: "/reports/"
+permalink: /reports/
 ---
 # General Notice
 - These are mostly reports on security analysis.

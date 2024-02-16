@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Welcome to application"
-date:   2024-02-16 13:22:58 -0700
+title:  "Welcome to application Security"
+date:   2024-02-15 13:22:58 -0700
 categories: appsec
 author: "Bevon o. - Security Researcher"
-permalink: /appsec/
+permalink: "/appsec001/"
 ---
 # General Notice
 - Mostly Application Security testing
 
-# Types of Applications Security Testing
+# Appsec Covered
 - Web Applications
 - Android Applications
 - IoS  Applications

@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Hardware Notice"
-date:   2024-02-16 13:22:58 -0700
+date:   2024-02-15 13:22:58 -0700
 categories: hardware
 author: "Bevon o. - Security Researcher"
-permalink: /hardware/
+permalink: "/hardware/"
 ---
 
 # Hardware Security Testing

@@ -21,12 +21,14 @@
 title: Bevon O.
 # email: aptnetdb [at] gmail [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
-  Security Researcher focused on reverse engineering of malware analysis and hardware security.
+  Security Researcher focused on software security and reverse engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aptnetdb
 github_username:  aptnetdb
 linkedin_username: aptnetdb
+gitlab_username: aptnetdb
+
 
 # Build settings
 theme: minima

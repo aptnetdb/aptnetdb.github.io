@@ -1,20 +1,20 @@
 ---
 layout: post
 title:  "Hardware Notice"
-date:   2022-10-19 03:23:40 -0700
+date:   2024-02-16 13:22:58 -0700
 categories: hardware
 author: "Bevon o. - Security Researcher"
 permalink: "/hardware/"
 ---
 
-# Hardware Security Testing (Firmware Security)
-## Areas of Interest
-- Internet of Things (IoT)
-- Automotive-Car Hacking
+# Hardware Security Testing
+- Mostly Software security testing of hardware 
+
+# Areas of Interest
+- Automotive Security
 - Software Defined Radio (SDR)
 - Industrial Control System (ICS)
-- 
 
-## Hardware Lab Setup
+# Hardware Lab Setup
 
 

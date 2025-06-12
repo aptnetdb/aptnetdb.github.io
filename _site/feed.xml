@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-12T03:03:19+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bevon O.</title><subtitle>Security Researcher focused on software security and artificial intelligence.</subtitle><entry><title type="html">Welcome to my blog</title><link href="http://localhost:4000/blog-update25/" rel="alternate" type="text/html" title="Welcome to my blog" /><published>2025-06-09T00:01:04+09:00</published><updated>2025-06-09T00:01:04+09:00</updated><id>http://localhost:4000/welcome-to-blog</id><content type="html" xml:base="http://localhost:4000/blog-update25/"><![CDATA[<p>I’m in the process of revamping some of my previous projects as part of my ongoing learning journey.
+These projects cover a range of areas that I’m passionate about, and will help refine my skills and explore new ideas.</p>
+
+<p>Currently, my focus is on three key research areas that drive me: healthcare, energy, and the financial sector.
+I believe each of these fields will present unique challenges, and I’m open to share my thoughts, findings and collaborate in learning, researching, etc.</p>
+
+<p>Feel free to check back in for updates, and don’t hesitate to reach out if you have any thoughts, quesitons, or feedbacks.</p>
+
+<blockquote>
+  <p><strong><em>Securing tomorrow’s critical systems - One discovery at a time</em></strong></p>
+</blockquote>]]></content><author><name></name></author><category term="blog" /><category term="update" /><summary type="html"><![CDATA[I’m in the process of revamping some of my previous projects as part of my ongoing learning journey. These projects cover a range of areas that I’m passionate about, and will help refine my skills and explore new ideas.]]></summary></entry><entry><title type="html">Welcome to application Security</title><link href="http://localhost:4000/appsec001/" rel="alternate" type="text/html" title="Welcome to application Security" /><published>2024-02-16T05:22:58+09:00</published><updated>2024-02-16T05:22:58+09:00</updated><id>http://localhost:4000/Hello-to-application2</id><content type="html" xml:base="http://localhost:4000/appsec001/"><![CDATA[<h1 id="general-notice">General Notice</h1>
+<ul>
+  <li>Mostly Application Security testing</li>
+</ul>
+
+<h1 id="appsec-covered">Appsec Covered</h1>
+<ul>
+  <li>Web Applications</li>
+  <li>Android Applications</li>
+  <li>IoS  Applications</li>
+</ul>]]></content><author><name>Bevon o. - Security Researcher</name></author><category term="appsec" /><summary type="html"><![CDATA[General Notice Mostly Application Security testing]]></summary></entry><entry><title type="html">Hardware Notice</title><link href="http://localhost:4000/hardware/" rel="alternate" type="text/html" title="Hardware Notice" /><published>2024-02-16T05:22:58+09:00</published><updated>2024-02-16T05:22:58+09:00</updated><id>http://localhost:4000/hardware-notice</id><content type="html" xml:base="http://localhost:4000/hardware/"><![CDATA[<h1 id="hardware-security-testing">Hardware Security Testing</h1>
+<ul>
+  <li>Mostly Software security testing of hardware</li>
+</ul>
+
+<h1 id="areas-of-interest">Areas of Interest</h1>
+<ul>
+  <li>Automotive Security</li>
+  <li>Software Defined Radio (SDR)</li>
+  <li>Industrial Control System (ICS)</li>
+</ul>
+
+<h1 id="hardware-lab-setup">Hardware Lab Setup</h1>]]></content><author><name>Bevon o. - Security Researcher</name></author><category term="hardware" /><summary type="html"><![CDATA[Hardware Security Testing Mostly Software security testing of hardware]]></summary></entry><entry><title type="html">Malware Lab Setup</title><link href="http://localhost:4000/malware/" rel="alternate" type="text/html" title="Malware Lab Setup" /><published>2024-02-16T05:22:58+09:00</published><updated>2024-02-16T05:22:58+09:00</updated><id>http://localhost:4000/malware-lab-setup</id><content type="html" xml:base="http://localhost:4000/malware/"><![CDATA[<h2 id="malware-analysis--reverse-engineering">Malware analysis &amp; Reverse engineering</h2>
+<hr />
+
+<h1 id="malware-lab-setup">Malware Lab Setup</h1>
+
+<h2 id="requirements">Requirements</h2>
+<ul>
+  <li>Hypervisor
+    <ul>
+      <li>VirtualBox</li>
+    </ul>
+  </li>
+  <li>Virtual Machines
+    <ul>
+      <li>Windows VM-Flare</li>
+      <li>Linux VM-REMnux</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="download-links">Download Links</h2>
+<ul>
+  <li><a href="https://www.virtualbox.org/">Virtualbox</a></li>
+  <li><a href="https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise">Windows 10</a></li>
+  <li><a href="https://docs.remnux.org/install-distro/get-virtual-appliance">REMnux</a></li>
+  <li><a href="https://github.com/mandiant/flare-vm">Flare</a></li>
+</ul>
+
+<hr />
+
+<h2 id="hypervisor-installation">Hypervisor Installation</h2>
+<ul>
+  <li>Download and install virtualbox from the download links.</li>
+</ul>
+<hr />
+
+<h3 id="setting-up-windows-vm">Setting up Windows VM</h3>
+<ul>
+  <li>Download Windows 10 and extract the zipped file</li>
+  <li>Create New Virtual Machine &amp; start the VM</li>
+  <li>Take a snapshot then install <a href="https://github.com/mandiant/flare-vm">Flare VM</a></li>
+  <li>After installation take another snapshot</li>
+</ul>
+
+<h3 id="setting-up-remnux-vm">Setting up REMnux VM</h3>
+<ul>
+  <li>Extract and launch the REMnux VM distribution</li>
+  <li>Start the REMnux VM then take a snapshot.</li>
+</ul>
+
+<hr />
+
+<h2 id="hypervisor-network-configuration">Hypervisor Network Configuration</h2>
+<ul>
+  <li>Make sure no virtual Machine is running</li>
+  <li>Click on <code class="language-plaintext highlighter-rouge">Tools</code> drop down menu then choose Network</li>
+  <li><code class="language-plaintext highlighter-rouge">Create</code> New Virtual Adapter likely will be Adapter 2</li>
+  <li>Enable <code class="language-plaintext highlighter-rouge">DHCP Server</code> on the new adapter</li>
+  <li>Configure <code class="language-plaintext highlighter-rouge">Adapter</code> manually &amp; change IP address</li>
+</ul>
+
+<hr />
+
+<h2 id="vm-network-configuration">VM Network Configuration</h2>
+<ul>
+  <li>Open VM Settings for both Windows and REMnux VM</li>
+  <li>Disable other adapters</li>
+  <li>Change their <code class="language-plaintext highlighter-rouge">network</code> settings to: Select new adapter under Name
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Attached to: Host-Only Adapter
+Name: VirtualBox Host-Only Ethernet Adapter #2
+</code></pre></div>    </div>
+  </li>
+  <li>Start both VMs, check their IP addresses &amp; <code class="language-plaintext highlighter-rouge">ping</code> 8.8.8.8, google.com &amp; each other VM to test network</li>
+</ul>
+
+<h3 id="remnux-vm">REMnux VM</h3>
+<ul>
+  <li>Open termnial run <code class="language-plaintext highlighter-rouge">sudo nano /etc/inetsim/inetsim.conf</code> to edit Fakenet config file</li>
+  <li>Remove <code class="language-plaintext highlighter-rouge">#</code> &amp; Make Changes to the following:</li>
+  <li>DNS Default is the REMnux IP Address
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>start service dns
+service_bind_address 0.0.0.0 
+(0.0.0.0 bind all interfaces)
+dns_default_ip 10.0.0.4
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+<h3 id="windows-vm">Windows VM</h3>
+<ul>
+  <li>Open Network Setting &amp; right-click <code class="language-plaintext highlighter-rouge">ethernet</code> adapter then click <code class="language-plaintext highlighter-rouge">Properties</code></li>
+  <li>Click <code class="language-plaintext highlighter-rouge">Internet Protocol Version 4 (IPv4)</code> then <code class="language-plaintext highlighter-rouge">Properties</code></li>
+  <li>Select <code class="language-plaintext highlighter-rouge">Use the following DNS Server Addresses</code> then add REMnux IP address</li>
+</ul>
+
+<hr />
+
+<h2 id="toolkit">Toolkit</h2>
+<h3 id="basic-static-analysis">Basic Static Analysis:</h3>
+<ul>
+  <li>File hashes</li>
+  <li>VirusTotal</li>
+  <li>FLOSS</li>
+  <li>PEStudio</li>
+  <li>PEView</li>
+</ul>
+
+<h3 id="basic-dynamic-analysis">Basic Dynamic Analysis</h3>
+<ul>
+  <li>Wireshark</li>
+  <li>Inetsim</li>
+  <li>Netcat</li>
+  <li>TCPView</li>
+  <li>Procmon</li>
+</ul>
+
+<h3 id="advanced-static-analysis">Advanced Static Analysis</h3>
+<h4 id="decompilers-and-disassemblers">Decompilers and Disassemblers</h4>
+<ul>
+  <li>IDA Pro</li>
+  <li>Ghidra</li>
+  <li>OllyDbg</li>
+  <li>Cutter</li>
+</ul>
+
+<h3 id="advanced-dynamic-analysis">Advanced Dynamic Analysis</h3>
+<h4 id="debuggers">Debuggers</h4>
+<ul>
+  <li>flareqdb</li>
+  <li>scdbg</li>
+  <li>windbgx64</li>
+  <li>windbgx86</li>
+  <li>x32dbg</li>
+  <li>x64dbg</li>
+</ul>
+
+<hr />
+
+<h2 id="sandbox">Sandbox</h2>
+<ul>
+  <li><a href="https://any.run/">Any.Run</a></li>
+  <li><a href="https://tria.ge/">Hatching Triage</a></li>
+  <li><a href="https://www.intezer.com/">Intezer</a></li>
+  <li><a href="https://www.hybrid-analysis.com/">Hybrid Analysis</a></li>
+  <li><a href="https://www.virustotal.com/">VirusTotal</a></li>
+</ul>
+
+<hr />]]></content><author><name>Bevon o. - Security Researcher</name></author><category term="malware" /><summary type="html"><![CDATA[Malware analysis &amp; Reverse engineering Malware Lab Setup]]></summary></entry><entry><title type="html">Welcome to ctfs</title><link href="http://localhost:4000/ctfs/" rel="alternate" type="text/html" title="Welcome to ctfs" /><published>2024-02-16T05:22:58+09:00</published><updated>2024-02-16T05:22:58+09:00</updated><id>http://localhost:4000/welcome-to-ctfs</id><content type="html" xml:base="http://localhost:4000/ctfs/"><![CDATA[<h1 id="general-notice">General Notice</h1>
+<ul>
+  <li>Mostly Capture The Flag challenges</li>
+</ul>
+
+<h1 id="skills-to-attain">Skills to Attain</h1>
+<ul>
+  <li>Reverse Engineering</li>
+  <li>Movement, Pivoting &amp; Persistence</li>
+  <li>Secure Coding</li>
+  <li>Exploit Development</li>
+</ul>
+
+<h1 id="list-of-ctf-covered">List of CTF Covered</h1>
+<ul>
+  <li>Binary Exploitation</li>
+  <li>Web APP Exploitation</li>
+</ul>]]></content><author><name>Bevon o. - Security Researcher</name></author><category term="ctfs" /><summary type="html"><![CDATA[General Notice Mostly Capture The Flag challenges]]></summary></entry><entry><title type="html">Malware Notice</title><link href="http://localhost:4000/malware001/" rel="alternate" type="text/html" title="Malware Notice" /><published>2024-02-16T05:22:58+09:00</published><updated>2024-02-16T05:22:58+09:00</updated><id>http://localhost:4000/welcome-to-malware</id><content type="html" xml:base="http://localhost:4000/malware001/"><![CDATA[<h1 id="malware-analysis--reverse-engineering">Malware Analysis &amp; Reverse Engineering</h1>
+
+<p>Mostly exploring &amp; experimenting with malware &amp; learning reverse engineering.</p>]]></content><author><name>Bevon o. - Security Researcher</name></author><category term="malware" /><summary type="html"><![CDATA[Malware Analysis &amp; Reverse Engineering]]></summary></entry><entry><title type="html">Welcome to projects</title><link href="http://localhost:4000/listofwork/" rel="alternate" type="text/html" title="Welcome to projects" /><published>2024-02-16T05:22:58+09:00</published><updated>2024-02-16T05:22:58+09:00</updated><id>http://localhost:4000/welcome-to-projects</id><content type="html" xml:base="http://localhost:4000/listofwork/"><![CDATA[<h1 id="general-notice">General Notice</h1>
+<ul>
+  <li>Projects mostly on software security and digital forensics.</li>
+</ul>
+
+<h1 id="types-of-projects">Types of Projects</h1>
+<ul>
+  <li>Security Automation</li>
+  <li>Artificial Intelligence</li>
+</ul>]]></content><author><name>Bevon o. - Security Researcher</name></author><category term="projects" /><summary type="html"><![CDATA[General Notice Projects mostly on software security and digital forensics.]]></summary></entry><entry><title type="html">Welcome to reports</title><link href="http://localhost:4000/reports/" rel="alternate" type="text/html" title="Welcome to reports" /><published>2024-02-16T05:22:58+09:00</published><updated>2024-02-16T05:22:58+09:00</updated><id>http://localhost:4000/welcome-to-reports</id><content type="html" xml:base="http://localhost:4000/reports/"><![CDATA[<h1 id="general-notice">General Notice</h1>
+<ul>
+  <li>These are mostly reports on security analysis.</li>
+</ul>
+
+<h1 id="types-of-reports">Types of Reports</h1>
+<ul>
+  <li>Malware Analysis</li>
+  <li>Application Security</li>
+  <li>Vulnerability Research</li>
+  <li>Network Security</li>
+</ul>]]></content><author><name>Bevon o. - Security Researcher</name></author><category term="reports" /><summary type="html"><![CDATA[General Notice These are mostly reports on security analysis.]]></summary></entry></feed>

@@ -7,13 +7,13 @@ permalink: /contact/
 ## Email Address
 ### General Inquiries
 
-* Email: [bevon@aptnetdb.com](mailto:bevon@aptnetdb.com)
+* Email: Pending
 
 * Phone: NA
 
 ### Business Inquiries
 
-* Email: [bevon@aptnetdb.com](mailto:bevon@aptnetdb.com)
+* Email: Pending
 
 ---
 

@@ -9,7 +9,7 @@ permalink: /contact/
 
 * Email: [bevon@aptnetdb.com](mailto:bevon@aptnetdb.com)
 
-* Phone: [+254-123456789](tel:+254-123456789)
+* Phone: NA
 
 ### Business Inquiries
 
@@ -19,17 +19,13 @@ permalink: /contact/
 
 ## Mailing Address
 
-> abc123, Ole Shapara Street
->
-> Nairobi
->
-> Kenya
+> NA
+> 
 
 ---
 
 ## Social Media
 
 1. [Twitter](https://x.com/aptnetdb)
-2. [Instagram](#)
-3. [Facebook](#)
-4. [Mastodon](#)
+2. [Bluesky](https://bsky.app/profile/aptnetdb.bsky.social)
+4. [Mastodon](https://infosec.exchange/@aptnetdb)

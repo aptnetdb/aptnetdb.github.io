@@ -28,5 +28,5 @@ permalink: /contact/
 
 1. [Twitter](https://x.com/aptnetdb)
 2. [Bluesky](https://bsky.app/profile/aptnetdb.bsky.social)
-4. [Mastodon.infosec](https://infosec.exchange/@aptnetdb)
-5. [Mastodon.ioc](https://ioc.exchange/@aptnetdb)
+3. [Mastodon](https://infosec.exchange/@aptnetdb)
+

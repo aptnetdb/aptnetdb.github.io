@@ -17,9 +17,9 @@ This is a resume of my profile. You can find the full Curriculum Vitae on [Bevon
 Year | Position | Responsibilities
 -----|-------|--------
 2023-Present |ICT Officer | Managing entire computer and network systems of the whole organization.
-20202-2023 |Information Security Analyst  | Conducted vulnerability assessment and security policy development.
+2022-2023 |Information Security Analyst  | Conducted vulnerability assessment and security policy development.
 2021-2021  |Data Recovery Engineer | Performed data recovery, digital forensics and developed ransomware incident response plan.
-2019-2o19 |ICT Support Officer | Deployment computer hardware, software and managing network systems.
+2019-2019 |ICT Support Officer | Deployment computer hardware, software and managing network systems.
 
 ## Solutions Offered
 - Information security services
@@ -33,8 +33,8 @@ Year | Position | Responsibilities
 | Research Areas
 |-----
 | Applications Security - Mobile & Web Applications
-| Operating System - Android, iOS, macOS Windows & Linux OS
-| Hardware Security - Mobile, Desktops & Laptops
+| Operating System - Android, iOS, macOS, Windows & Linux OS
+| Hardware Security - Mobile, Laptops, ECU, SDR & ICS
 
 ## Disclaimer
 This is a personal blog. Any views or opinions represented in this blog are personal and belong solely to me and do not represent those of my employer.

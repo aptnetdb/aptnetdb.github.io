@@ -4,36 +4,37 @@ title: Profile
 permalink: /about/
 ---
 
-Hi! I am a junior Security Researcher focused on software security to help improve the cybersecurity posture of critical infrastructure sectors.
+Hi! I am an aspiring security engineer focusing on software security and information system engineering.
 
 This is a resume of my profile. You can find the full Curriculum Vitae on [BevonCV](#)
 
 ## Technical Expertise
 
-> Programming, Reverse Engineering, Exploit Development, Malware Analysis, Application Security Testing
+> Programming, Reverse Engineering, Exploit Development, Digital Forensics, Malware Analysis, Application Security Testing
 
 ## Work Experience
 
 Year | Position | Responsibilities
 -----|-------|--------
-2024- |ICT Officer | Managing computer and network systems.
-22-23 |Information Security Analyst  | Performed vulnerability assessment and security policy development.
-2021 | Data Recovery Engineer | Managed data recovery and developed incident response plan.
-2019 | ICT Support Officer | Deployment and maintenance of computer infrastructure.
+2023-Present |ICT Officer | Managing entire computer and network systems of the whole organization.
+20202-2023 |Information Security Analyst  | Conducted vulnerability assessment and security policy development.
+2021-2021  |Data Recovery Engineer | Performed data recovery, digital forensics and developed ransomware incident response plan.
+2019-2o19 |ICT Support Officer | Deployment computer hardware, software and managing network systems.
 
 ## Solutions Offered
 - Information security services
 - ICT support & infrastructure services
 - Web application security services
+- Digital forensic and Malware Analysis
 - Compliance and audit prep support
 
 ## Research Interests
 
 | Research Areas
 |-----
-| Healthcare Sector - EHR, PACS, LIMS
-| Financial Sector - CBS, ATM & POS, Banking Apps
-| Energy Sector - SCADA/ICS, EMS, GIS
+| Applications Security - Mobile & Web Applications
+| Operating System - Android, iOS, macOS Windows & Linux OS
+| Hardware Security - Mobile, Desktops & Laptops
 
 ## Disclaimer
 This is a personal blog. Any views or opinions represented in this blog are personal and belong solely to me and do not represent those of my employer.
